@@ -1,0 +1,121 @@
+# depslib dependency file v1.0
+1623125200 source:c:\users\feng\desktop\um\second year 2nd sem\object oriented programming\group project\groupproject2\groupproject2\main.cpp
+	<iostream>
+	<vector>
+	"Format.h"
+	"Fasta.h"
+	"Plain.h"
+	"Genbank.h"
+	"Embl.h"
+
+1622555935 source:c:\users\feng\desktop\um\second year 2nd sem\object oriented programming\group project\groupproject2\groupproject2\simple.cpp
+
+1622555934 c:\users\feng\desktop\um\second year 2nd sem\object oriented programming\group project\groupproject2\groupproject2\simple.h
+
+1622704620 c:\users\feng\desktop\um\second year 2nd sem\object oriented programming\group project\groupproject2\groupproject2\fasta.h
+	"Format.h"
+
+1623087410 source:c:\users\feng\desktop\um\second year 2nd sem\object oriented programming\group project\groupproject2\groupproject2\fasta.cpp
+	"Fasta.h"
+	<iostream>
+
+1622541522 source:c:\users\feng\desktop\um\second year 2nd sem\object oriented programming\group project\groupproject2\groupproject2\gcg.cpp
+	"Simple.h"
+	<iostream>
+
+1623087387 source:c:\users\feng\desktop\um\second year 2nd sem\object oriented programming\group project\groupproject2\groupproject2\plain.cpp
+	"Plain.h"
+	<iostream>
+
+1622704620 c:\users\feng\desktop\um\second year 2nd sem\object oriented programming\group project\groupproject2\groupproject2\plain.h
+	"Format.h"
+	<iostream>
+
+1622704620 c:\users\feng\desktop\um\second year 2nd sem\object oriented programming\group project\groupproject2\groupproject2\format.h
+	<iostream>
+	<vector>
+
+1622704620 source:c:\users\feng\desktop\um\second year 2nd sem\object oriented programming\group project\groupproject2\groupproject2\format.cpp
+	"Format.h"
+	<iostream>
+
+1623163125 source:c:\users\feng\desktop\um\second year 2nd sem\object oriented programming\group project\groupproject2\groupproject2\genbank.cpp
+	"Genbank.h"
+	<iostream>
+	<vector>
+	<iomanip>
+
+1622704620 c:\users\feng\desktop\um\second year 2nd sem\object oriented programming\group project\groupproject2\groupproject2\genbank.h
+	<iostream>
+	<vector>
+	"Format.h"
+
+1623129352 source:c:\users\feng\desktop\um\second year 2nd sem\object oriented programming\group project\groupproject2\groupproject2\embl.cpp
+	"Embl.h"
+	<iostream>
+	<vector>
+
+1622704620 c:\users\feng\desktop\um\second year 2nd sem\object oriented programming\group project\groupproject2\groupproject2\embl.h
+	"Format.h"
+	<iostream>
+
+1623129352 source:c:\users\feng\desktop\um\second year 2nd sem\object oriented programming\group project\groupproject2\groupproject\embl.cpp
+	"Embl.h"
+	<iostream>
+	<vector>
+
+1622704620 c:\users\feng\desktop\um\second year 2nd sem\object oriented programming\group project\groupproject2\groupproject\embl.h
+	"Format.h"
+	<iostream>
+
+1622704620 c:\users\feng\desktop\um\second year 2nd sem\object oriented programming\group project\groupproject2\groupproject\format.h
+	<iostream>
+	<vector>
+
+1623087410 source:c:\users\feng\desktop\um\second year 2nd sem\object oriented programming\group project\groupproject2\groupproject\fasta.cpp
+	"Fasta.h"
+	<iostream>
+
+1622704620 c:\users\feng\desktop\um\second year 2nd sem\object oriented programming\group project\groupproject2\groupproject\fasta.h
+	"Format.h"
+
+1622541522 source:c:\users\feng\desktop\um\second year 2nd sem\object oriented programming\group project\groupproject2\groupproject\gcg.cpp
+	"Simple.h"
+	<iostream>
+
+1622555934 c:\users\feng\desktop\um\second year 2nd sem\object oriented programming\group project\groupproject2\groupproject\simple.h
+
+1623163125 source:c:\users\feng\desktop\um\second year 2nd sem\object oriented programming\group project\groupproject2\groupproject\genbank.cpp
+	"Genbank.h"
+	<iostream>
+	<vector>
+	<iomanip>
+
+1622704620 c:\users\feng\desktop\um\second year 2nd sem\object oriented programming\group project\groupproject2\groupproject\genbank.h
+	<iostream>
+	<vector>
+	"Format.h"
+
+1623125200 source:c:\users\feng\desktop\um\second year 2nd sem\object oriented programming\group project\groupproject2\groupproject\main.cpp
+	<iostream>
+	<vector>
+	"Format.h"
+	"Fasta.h"
+	"Plain.h"
+	"Genbank.h"
+	"Embl.h"
+
+1622704620 c:\users\feng\desktop\um\second year 2nd sem\object oriented programming\group project\groupproject2\groupproject\plain.h
+	"Format.h"
+	<iostream>
+
+1623087387 source:c:\users\feng\desktop\um\second year 2nd sem\object oriented programming\group project\groupproject2\groupproject\plain.cpp
+	"Plain.h"
+	<iostream>
+
+1622555935 source:c:\users\feng\desktop\um\second year 2nd sem\object oriented programming\group project\groupproject2\groupproject\simple.cpp
+
+1624863547 source:c:\users\feng\desktop\um\second year 2nd sem\object oriented programming\group project\groupproject2\groupproject\format.cpp
+	"Format.h"
+	<iostream>
+
